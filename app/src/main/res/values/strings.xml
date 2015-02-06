@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Capp and Grounds</string>
+    <string name="title_section1">Order</string>
+    <string name="title_section2">Twitter</string>
+    <string name="title_section3">Our Drinks</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">About</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="internet">It looks like you have no internet connection!</string>
+    <string name="title_activity_capp">Cappuccino</string>
+    <string name="hello_world">A cappuccino consists of two shots of espresso (a doppio) with four ounces of foamed milk poured into it. The result is a brownish foam that resembles the color of a Capuchin monk\'s robe, hence the name cappuccino. It is a popular breakfast drink in Italy, but, in America, we drink it all day long! The cappuccino is The Capp and Ground\'s signature drink.</string>
+    <string name="title_activity_caffe"></string>
+    <string name="caffe">An espresso macchiato is a doppio cut with a small amount of foamed milk. This adds a bit of creaminess to the espresso, and it has the added benefit of limiting the drink\'s exposure to oxygen.</string>
+    <string name="title_activity_doppio">Doppio</string>
+    <string name="doppio">A doppio consists of two shots of espresso (hence, two ounces) with nothing added. Espresso is an oily coffee that has been extracted from finely ground coffee beans by injecting near-boiling water at a pressure of 9-11 bars of pressure for 22-28 seconds. If we do it right, a shot of espresso should have a strong, bold flavor, but should not be sour or a bitter. Espresso, devoid of milk, will sour fairly quickly when exposed to oxygen. If you want a doppio, we suggest that your order it in Le Bistro, so that you can down it seconds after the shots are pulled.</string>
+    <string name="title_activity_mocha">Our classic mocha consists of two ounces of espresso, with steamed and foamed milk mixed with chocolate and flavoring</string>
+    <string name="title_activity_americano">In Europe, when an American orders coffee, s/he is often surprised to be presented with espresso instead of drip coffee. Because of that, baristas started adding hot water to espresso, calling it an "Americano." Because it doesn\'t really taste like drip coffee (it has an oilier texture and a bolder flavor), Americans brought the recipe back here! We put two shots of espresso (a doppio) into an 8-ounce cup, and fill the rest with hot water. If you want to add cream, type "room for cream" in the "Other" blank of the form, below. </string>
+    <string name="title_activity_bon">The Caffe BonBon is one part coffee and one part condensed milk. The two layer on top of each other and the more you mix it up the sweeter it gets!</string>
+    <string name="title_activity_steam">Our first non-coffee offering is the vanilla steamer.  If you have a sweet tooth, this steamed milk concoction is for you.</string>
+    <string name="title_activity_latte">A latte consists of two shots of espresso (a doppio) with 6 ounces of steamed milk. It is not as strong as a cappuccino (because there\'s more milk) and a less creamy (because we steam the milk instead of foaming it). The word "latte" is Italian for milk. The full name of the drink is, of course, a café latte.</string>
+    <string name="title_activity_about">About</string>
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.notsointeresting.cappandgrounds" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.MyTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".drinkpages.Capp"
+            android:label="@string/title_activity_capp" >
+        </activity>
+        <activity
+            android:name=".drinkpages.Caffe"
+            android:label="@string/title_activity_caffe" >
+        </activity>
+        <activity
+            android:name=".drinkpages.Doppio"
+            android:label="@string/title_activity_doppio" >
+        </activity>
+        <activity
+            android:name=".drinkpages.Mocha"
+            android:label="@string/title_activity_mocha" >
+        </activity>
+        <activity
+            android:name=".drinkpages.Americano"
+            android:label="@string/title_activity_americano" >
+        </activity>
+        <activity
+            android:name=".drinkpages.Bon"
+            android:label="@string/title_activity_bon" >
+        </activity>
+        <activity
+            android:name=".drinkpages.Steam"
+            android:label="@string/title_activity_steam" >
+        </activity>
+        <activity
+            android:name=".drinkpages.Latte"
+            android:label="@string/title_activity_latte" >
+        </activity>
+        <activity
+            android:name=".About"
+            android:label="@string/title_activity_about" >
+        </activity>
+    </application>
+
+</manifest>
